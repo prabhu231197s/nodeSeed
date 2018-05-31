@@ -1,0 +1,26 @@
+{
+    "test" : {
+        "host" : "127.0.0.1",
+        "port" : 3306,
+        "user" : "root",
+        "password" : "",
+        "db" : "kratos",
+        "multipleStatements" : true
+    },
+    "prod" : {
+        "host" : "",
+        "port" : 3306,
+        "user" : "",
+        "password" : "",
+        "db" : "kratos",
+        "multipleStatements" : true
+    },
+    "kratos" : {
+        "port" : 2222
+    },
+    "mailer" : {
+        "client_id" : " 516248463247-c5bbrhn1ppafo4t9eqvft5qceb9rn7s7.apps.googleusercontent.com",
+        "clinet_secret" : "YswDD6FxbbBkc4mHr8wRD11R",
+        "refresh_token" : "1/Q1Ty-1F26rnP4qjRKOEBX3eOAKZXQAmSZRhD9KE7aMMUcAXcZTehpoj_dgeQ1vnl"
+    }
+}
